@@ -8,16 +8,19 @@ This repository contains the code, data preprocessing steps, and models used in 
 
 ## Top 3 Positive Employees
 These employees consistently expressed positive sentiment in their communications:
-1. sally.beck@enron.com    2010-08                       14
-2. john.arnold@enron.com   2011-02                       12
-3. johnny.palmer@enron.com 2011-06                       12
+1. johnny.palmer@enron.com      2011-06                       14
+2. sally.beck@enron.com         2010-08                       14
+3. patti.thompson@enron.com     2011-07                       13
+
 
 
 ##  Top 3 Negative Employees
 These employees had the highest frequency of negative sentiment messages:
-1. sally.beck@enron.com    2010-07                       -2
-2. sally.beck@enron.com    2011-03                       -2
-3. johnny.palmer@enron.com 2010-07                       -1
+1. sally.beck@enron.com         2011-03                       -3
+2. kayne.coulter@enron.com      2011-01                       -1
+3. patti.thompson@enron.com     2011-05                       -1
+
+
 
 ---
 
